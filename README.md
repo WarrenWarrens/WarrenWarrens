@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### I'm [Ryan Warrener](https://warrenwarrens.github.io/), a fourth year Computer Science student at Ontario Tech, Oshawa, Canada
+
+
 <!--
 **WarrenWarrens/WarrenWarrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
