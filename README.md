@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
 ### I'm [Ryan Warrener](https://warrenwarrens.github.io/), a fourth year Computer Science student at Ontario Tech, Oshawa, Canada
+
+I love working with mobile development, and front end design/development. 
+
+Outside of work, you'll find me bouldering, working out at the gym, playing (mainly) single player games or out with friends
 
 
 <!--
