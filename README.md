@@ -14,12 +14,12 @@
 
 <table style="padding:10px">
   <tr>
-    <td>—ME—————————————————
+    <td style="width:45%">—ME—————————————————
 . Pronouns : . . . . . . . . . . . . . . He/Him
 . Nationality : . . . . . . . . . . . . . . . . Can
 . Occupation : . . . . . . . . . . . . .  Student
 . Availability : . . . . . . . . . . . . . . Closed</td>
-    <td>World</td>
+    <td style="width:45%">World</td>
   </tr>
 </table>  
 
