@@ -14,7 +14,11 @@
 
 <table style="padding:10px">
   <tr>
-    <td>Hello</td>
+    <td>—ME—————————————————
+. Pronouns : . . . . . . . . . . . . . . He/Him
+. Nationality : . . . . . . . . . . . . . . . . Can
+. Occupation : . . . . . . . . . . . . .  Student
+. Availability : . . . . . . . . . . . . . . Closed</td>
     <td>World</td>
   </tr>
 </table>  
