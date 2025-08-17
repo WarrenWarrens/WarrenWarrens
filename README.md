@@ -1,3 +1,5 @@
+![Banner](52886893505_803b391820_h.jpg)
+
 ## Hey there 👋
 
 ### I'm [Ryan Warrener](https://warrenwarrens.github.io/), a fourth year Computer Science student at Ontario Tech, Oshawa, Canada
