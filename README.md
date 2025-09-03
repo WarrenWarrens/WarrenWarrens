@@ -15,28 +15,8 @@
 
 #### Whats up
 
+## Specs
 
-![JAVA]
+#### Computer
 
-##### FIVE
-
-#### FOUR
-
-### THREE
-
-## TWO
-
-# ONE
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-
-<table style="padding:10px">
-  <tr>
-    <td style="width:45%">Hello</td>
-    <td style="width:45%">World</td>
-  </tr>
-</table> 
+ 
