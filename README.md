@@ -11,13 +11,10 @@
     ░          ░  ░   ░        ░        ░  ░         ░ 
                                                        
 ```
+# Hey, welcome to my Github
 
-<table style="padding:10px">
-  <tr>
-    <td style="width:45%">Hello</td>
-    <td style="width:45%">World</td>
-  </tr>
-</table> 
+### Whats up
+
 
 ![JAVA]
 
@@ -35,3 +32,11 @@
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+<table style="padding:10px">
+  <tr>
+    <td style="width:45%">Hello</td>
+    <td style="width:45%">World</td>
+  </tr>
+</table> 
