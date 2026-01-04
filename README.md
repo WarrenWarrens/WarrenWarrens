@@ -1,18 +1,13 @@
 
 <img width="1794" height="312" alt="text2" src="https://github.com/user-attachments/assets/ca4bfda3-4a20-445f-a1fd-6a907d477ad0" />
 
+# About Me / Contact
 
-# Hey, welcome to my Github
+#### Unless privated, this is the home for anything, & everything i create. I'm Warren, a 4th year CS student studying in Ontario, Canada; I'll be graduating with a BSC. as well as an dual minor in Mathematics & Physics. I love using my background in art to appraoch very technical problems/situations with a creative mind and finding unique ways to design projects. 
 
-#### Unless privated, this is the home/portfolio of any and all projects i create. 
+Primarily I code in **Python**, **Dart**, **C++** & **HTML/CSS/JS**. But I have a very broad experience with a multitude of popular languages.
+Using **PyCharm**, **IntelliJ IDEA**, **Android Studio** & **CLion**.
 
-## The best of me
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Languages
 
@@ -60,9 +55,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## Contact
-
-####  :3
 
  
