@@ -3,7 +3,7 @@
 
 # About Me / Contact
 
-#### Unless privated, this is the home for anything, & everything i create. I'm Warren, a 4th year CS student studying in Ontario, Canada; I'll be graduating with a BSC. as well as an dual minor in Mathematics & Physics. I love using my background in art to appraoch very technical problems/situations with a creative mind and finding unique ways to design projects. 
+#### Unless privated, this is the home for anything, & everything i create. I'm Warren, a 5th year CS student studying in Ontario, Canada; I'll be graduating with a BSC. as well as an dual minor in Mathematics & Physics. I love using my background in art to approach very technical problems/situations with a creative mind and finding unique ways to design projects. 
 
 Primarily I code in **Python**, **Dart**, **C++** & **HTML/CSS/JS**. But I have a very broad experience with a multitude of popular languages.
 Using **PyCharm**, **IntelliJ IDEA**, **Android Studio** & **CLion**.
